@@ -1,4 +1,6 @@
 # sda-project
+
+
 1- Krijo nje repo ne github
 2- DO : git clone dhe linkun e kopjar nga GitHub
 3-  cd emri i folderit qe kopjove (edited) 
